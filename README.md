@@ -1709,23 +1709,3 @@ def Recency(input_df, user_df):
     return user_df
 
 ```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
