@@ -1,4 +1,5 @@
 # RFM
+데이터셋 출처 : http://archive.ics.uci.edu/ml/datasets/Online+Retai
 ```python
 import pandas as pd
 from matplotlib import pyplot as plt
